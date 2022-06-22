@@ -37,6 +37,15 @@ Or you can utilize the speed of sound, since it is known that sound travels thro
 
 ![400px-Ultrasonic_Sensor_Distance_Formula](https://user-images.githubusercontent.com/61703896/174466511-031ce89e-4b53-43fb-a9bc-dbfe26cdadd4.png)
 
+## You Need to install 4 libraries 
+
+Arduino.h
+<br>
+NewPing.h
+<br>
+SoftwareSerial.h
+<br>
+DFRobotDFPlayerMini.h
 
 ## You can check my [ppt](https://docs.google.com/presentation/d/1bNCLbX-0vshMBwTqYvA_Anl2mRlpFLoYSxc1NNlQqMg/edit?usp=sharing )
 
