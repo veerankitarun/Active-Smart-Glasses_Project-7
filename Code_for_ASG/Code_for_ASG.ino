@@ -3,7 +3,7 @@
 #include <SoftwareSerial.h>
 #include <DFRobotDFPlayerMini.h>
 
-#define MAX_DISTANCE 400
+#define MAX_DISTANCE 400 //  maximum range of ultrasonicsenor 4M = 400cm
 
 const int trigPin1 = 2;
 const int echoPin1 = 3;
